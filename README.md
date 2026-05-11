@@ -3,7 +3,7 @@
 :computer: **Estudiante de IT**
 :pensil: **Entusiaste del conocimiento y abogada**
 :eyeglasses: **Un poco Geek**
-:oncoming_automobile: **Fan de la música y de las novelas históricos**
+:oncoming_automobile: **Fan de la música y de las novelas históricas**
 
 ### Vías de Contacto
 
